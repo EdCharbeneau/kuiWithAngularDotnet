@@ -16,6 +16,7 @@ const treeShakableModules = [
 ];
 const nonTreeShakableModules = [
     'bootstrap',
+    '@progress/kendo-theme-default/dist/all.css',
     'bootstrap/dist/css/bootstrap.css',
     'es6-promise',
     'es6-shim',
